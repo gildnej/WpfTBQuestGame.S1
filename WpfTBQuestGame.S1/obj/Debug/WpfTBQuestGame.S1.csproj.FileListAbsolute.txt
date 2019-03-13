@@ -1,0 +1,7 @@
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\WpfTBQuestGame.S1.csprojAssemblyReference.cache
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\PresentationLayer\GameSessionView.baml
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\MainWindow.g.cs
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\PresentationLayer\GameSessionView.g.cs
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\App.g.cs
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\WpfTBQuestGame.S1_MarkupCompile.cache
+H:\CIT195\final project\WpfTBQuestGame.S1\WpfTBQuestGame.S1\obj\Debug\WpfTBQuestGame.S1_MarkupCompile.lref
